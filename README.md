@@ -1,1 +1,1 @@
-# meef-landing-page
+# landing-page
