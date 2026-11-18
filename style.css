@@ -11,10 +11,12 @@ body {
 
 a {
     text-decoration: none;
+    list-style: none;
 }
 
 ul {
     list-style: none;
+    text-decoration: none;
 }
 
 .header {
@@ -32,4 +34,8 @@ ul {
 .header .text {
     font-size: 24px;
     color: #f9faf8;
+}
+
+.header-links a {
+    color: #e5e7eb;
 }
