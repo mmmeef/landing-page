@@ -9,6 +9,14 @@ body {
     flex-direction: column;
 }
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
 .header {
     display: flex;
     justify-content: space-around;
