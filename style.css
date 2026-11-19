@@ -29,6 +29,7 @@ ul {
 .header-links {
     display: flex;
     font-size: 18px;
+    gap: 20px;
 }
 
 .header .text {
