@@ -23,6 +23,8 @@ ul {
 }
 
 button {
+    width: 78px;
+    height: 20px;
     background-color: #3882f6;
     border: none;
     color: #f9faf8;
