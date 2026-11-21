@@ -23,11 +23,12 @@ ul {
 }
 
 button {
-    width: 78px;
-    height: 20px;
+    width: 90px;
+    height: 25px;
     background-color: #3882f6;
     border: none;
     color: #f9faf8;
+    border-radius: 5px;
 }
 
 .header {
@@ -82,6 +83,10 @@ button {
 
 .main .pics {
     order: 4;
+}
+
+.main button {
+    margin-top: 10px;
 }
 
 .header-links a {
