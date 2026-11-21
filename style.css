@@ -22,6 +22,12 @@ ul {
     text-decoration: none;
 }
 
+button {
+    background-color: #3882f6;
+    border: none;
+    color: #f9faf8;
+}
+
 .header {
     display: flex;
     justify-content: space-around;
