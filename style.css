@@ -39,6 +39,9 @@ button {
 
 .main {
     background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header-links {
