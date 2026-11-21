@@ -66,6 +66,10 @@ button {
     color: #e5e7eb;
 }
 
+.main .pics {
+    order: 4;
+}
+
 .header-links a {
     color: #e5e7eb;
 }
