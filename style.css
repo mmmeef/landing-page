@@ -50,6 +50,15 @@ button {
     gap: 20px;
 }
 
+.maintext {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 500px;
+    margin: 50px;
+}
+
 .header .text {
     font-size: 24px;
     color: #f9faf8;
@@ -64,6 +73,11 @@ button {
 .main .subtext {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.maintext .subtext {
+    margin: 0;
+    width: 480px;
 }
 
 .main .pics {
