@@ -113,8 +113,8 @@ button {
 }
 
 .frames .pics {
-    border: solid 2px #3882f6;
-    border-radius: 5px;
+    border: solid 5px #3882f6;
+    border-radius: 8px;
     width: 200px;
     height: auto;
 }
