@@ -95,6 +95,11 @@ button {
     color: #1f2937;
 }
 
+.information .subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .header-links a {
     color: #e5e7eb;
 }
