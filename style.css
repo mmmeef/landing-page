@@ -60,6 +60,18 @@ button {
     margin: 50px;
 }
 
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.frames {
+    display: flex;
+    flex-direction: column;
+}
+
 .header .text {
     font-size: 24px;
     color: #f9faf8;
@@ -100,6 +112,18 @@ button {
     color: #e5e7eb;
 }
 
+.frames .pics {
+    border: solid 2px #3882f6;
+    border-radius: 5px;
+    width: 200px;
+    height: auto;
+}
+
+.frames .subtext {
+    text-align: center;
+    width: 200px;
+}
+
 .header-links a {
     color: #e5e7eb;
 }
@@ -108,7 +132,3 @@ button {
     margin-top: 10px;
 }
 
-.frames .pics {
-    border: solid 2px #3882f6;
-    border-radius: 5px;
-}
