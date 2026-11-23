@@ -85,14 +85,14 @@ button {
     order: 4;
 }
 
-.main button {
-    margin-top: 10px;
-}
-
 .information .text {
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
 }
 
 .information .subtext {
@@ -102,6 +102,10 @@ button {
 
 .header-links a {
     color: #e5e7eb;
+}
+
+.main button {
+    margin-top: 10px;
 }
 
 .images img {
