@@ -88,6 +88,8 @@ button {
 .banner {
     background-color: #3882f6;
     margin: 60px 400px;
+    display: flex;
+    flex-direction: column;
 }
 
 .header .text {
@@ -158,6 +160,10 @@ button {
     font-style: italic;  
     align-self: flex-end;
     margin-right: 455px;
+}
+
+.banner .action {
+    order: 3;
 }
 
 .header-links a {
