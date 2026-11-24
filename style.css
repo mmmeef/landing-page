@@ -135,6 +135,7 @@ button {
 .frames .subtext {
     text-align: center;
     width: 200px;
+    padding-top: 5px;
 }
 
 .quote .text {
