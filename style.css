@@ -183,3 +183,7 @@ button {
     margin-top: 10px;
 }
 
+.banner button {
+    outline: solid 2px #e5e7eb;
+}
+
