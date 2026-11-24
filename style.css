@@ -85,6 +85,11 @@ button {
     margin-bottom: 100px;
 }
 
+.banner {
+    background-color: #3882f6;
+    margin: 60px 400px;
+}
+
 .header .text {
     font-size: 24px;
     color: #f9faf8;
