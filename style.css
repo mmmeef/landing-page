@@ -74,6 +74,11 @@ button {
 
 .quote {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
 }
 
 .header .text {
@@ -133,6 +138,7 @@ button {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
+    width: 1000px;
 }
 
 .header-links a {
