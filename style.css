@@ -81,6 +81,10 @@ button {
     padding: 90px;
 }
 
+.information {
+    margin-bottom: 100px;
+}
+
 .header .text {
     font-size: 24px;
     color: #f9faf8;
