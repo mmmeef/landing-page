@@ -72,6 +72,10 @@ button {
     flex-direction: column;
 }
 
+.quote {
+    background-color: #E5E7EB;
+}
+
 .header .text {
     font-size: 24px;
     color: #f9faf8;
