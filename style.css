@@ -141,6 +141,15 @@ button {
     width: 825px;
 }
 
+.quote .subtext {
+    color: #1f2937;
+    font-size: 25px;
+    font-weight: 900;
+    font-style: italic;  
+    align-self: flex-end;
+    margin-right: 455px;
+}
+
 .header-links a {
     color: #e5e7eb;
 }
