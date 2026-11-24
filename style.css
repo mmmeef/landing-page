@@ -93,6 +93,10 @@ button {
     justify-content: space-between;
 }
 
+.bannertext {
+    color: #f9faf8;
+}
+
 .header .text {
     font-size: 24px;
     color: #f9faf8;
@@ -165,6 +169,10 @@ button {
 
 .banner .action {
     order: 3;
+}
+
+.bannertext .text {
+    font-weight: 900;
 }
 
 .header-links a {
